@@ -6,7 +6,7 @@ Reviewed Apple's [Spotlight guide](https://support.apple.com/en-gb/guide/mac-hel
 
 ## Before and after
 
-1. **Initial view — improved.** The prior 540px-tall window spent most of its area on branding and empty-state instructions. The new surface starts at the height of the input and filters, expands with a query, and clears before hiding on Escape. [Before](screenshots/before.png), [after](screenshots/after-idle.png).
+1. **Initial view — improved.** The prior 540px-tall window spent most of its area on branding and empty-state instructions. The new surface starts at the height of the input and filters, expands with a query, and clears before hiding on Escape. [After](screenshots/after-idle.png). A screenshot of the previous design was removed: it showed the project's earlier name and cannot be regenerated.
 2. **Results — improved.** The top match is distinct, filename matches have text emphasis, and the selected result has a separate type/location pane with open and copy-path actions. Polling the index preserves the selected item. [Results](screenshots/after-results.png).
 3. **No results — improved.** The screen suggests a different filename and offers to broaden a category-filtered search. It retains focus and the query. [Empty state](screenshots/after-empty.png).
 4. **Narrow view — checked.** Details collapse to prioritize the keyboard-navigable list; long names truncate. No horizontal overflow at 320, 480, 640, 768, or 1440px. [Narrow view](screenshots/after-narrow.png).
