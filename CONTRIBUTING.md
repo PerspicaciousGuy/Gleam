@@ -25,7 +25,7 @@ cargo test --manifest-path src-tauri/Cargo.toml --lib  # search, indexing and ic
 cargo check --manifest-path src-tauri/Cargo.toml --features desktop   # needs the Tauri prerequisites for your OS
 ```
 
-The [Windows build workflow](https://github.com/PerspicaciousGuy/gleam/actions/workflows/windows.yml) runs the tests and builds the installer on every push and pull request.
+The [Windows build workflow](https://github.com/PerspicaciousGuy/Gleam/actions/workflows/windows.yml) runs the tests and builds the installer on every push and pull request.
 
 ## Guidelines
 

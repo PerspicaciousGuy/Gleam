@@ -1,6 +1,6 @@
 # Gleam
 
-[![Windows build](https://github.com/PerspicaciousGuy/gleam/actions/workflows/windows.yml/badge.svg)](https://github.com/PerspicaciousGuy/gleam/actions/workflows/windows.yml)
+[![Windows build](https://github.com/PerspicaciousGuy/Gleam/actions/workflows/windows.yml/badge.svg)](https://github.com/PerspicaciousGuy/Gleam/actions/workflows/windows.yml)
 
 A fast, local file and app launcher for Windows, built with **Rust, Tauri 2, React and TypeScript**. Press **Alt + Space**, type a name, press **Enter**.
 
@@ -25,7 +25,7 @@ Gleam is an early release (0.x). It is developed and tested on Windows 11 by one
 
 ### Download the installer
 
-1. Open the [latest release](https://github.com/PerspicaciousGuy/gleam/releases/latest) and download `Gleam_<version>_x64-setup.exe`.
+1. Open the [latest release](https://github.com/PerspicaciousGuy/Gleam/releases/latest) and download `Gleam_<version>_x64-setup.exe`.
 2. Run it. It installs for the current user only, so it should not ask for administrator rights.
 3. The installer is **not code-signed**, so Windows SmartScreen shows "Windows protected your PC". Choose **More info**, then **Run anyway** if you trust the download.
 4. To check the file first, compare its hash with `SHA256SUMS.txt` on the release page:
@@ -48,8 +48,8 @@ Install:
 Then, in PowerShell:
 
 ```powershell
-git clone https://github.com/PerspicaciousGuy/gleam.git
-cd gleam
+git clone https://github.com/PerspicaciousGuy/Gleam.git
+cd Gleam
 npm ci
 npm run desktop   # run the app in development mode
 npm run bundle    # or build the installer under src-tauri/target/release/bundle/nsis/

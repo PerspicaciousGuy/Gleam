@@ -6,7 +6,7 @@ Only the latest release and the default branch receive fixes.
 
 ## Reporting a vulnerability
 
-Please do **not** open a public issue for a security problem. Use GitHub's private reporting instead: open the [Security tab](https://github.com/PerspicaciousGuy/gleam/security) of this repository and choose **Report a vulnerability**.
+Please do **not** open a public issue for a security problem. Use GitHub's private reporting instead: open the [Security tab](https://github.com/PerspicaciousGuy/Gleam/security) of this repository and choose **Report a vulnerability**.
 
 Include what you found, how to reproduce it, the Gleam version and your Windows version. This is a one-person project, so replies are best effort and there is no guaranteed response time.
 

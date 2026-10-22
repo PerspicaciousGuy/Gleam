@@ -5,7 +5,7 @@ edition = "2021"
 description = "A fast, local file and app launcher for Windows"
 license = "MIT"
 authors = ["PerspicaciousGuy"]
-repository = "https://github.com/PerspicaciousGuy/gleam"
+repository = "https://github.com/PerspicaciousGuy/Gleam"
 publish = false
 
 [lib]
